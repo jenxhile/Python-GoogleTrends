@@ -1,4 +1,4 @@
-# Python-GoogleTrends
+# Google Trends datan hyödyntäminen aikasarjaennustamisessa Pythonin avulla
 
 Tässä notebookissa toteutetaan aikasarjaennustamista avainsanoille, joiden hakuvolyymin määrä haetaan Google Trends-datasta. Esimerkissä on käytetty avainsanana sanaa "heijastin", mutta sanan voi halutessaan vaihtaa (tällöin toki sanalliset selitteet eivät enää pidä paikkaansa).
 
